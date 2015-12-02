@@ -6,4 +6,4 @@
 - Cassandra via Docker - [Keynote](Cassandra/Cassandra-via-Docker.key?raw=true) / [PDF](Cassandra/Cassandra-via-Docker.pdf?raw=true) / [PowerPoint] (Cassandra/Cassandra-via-Docker.pptx?raw=true)
 
 ### Photography
-- [Black & White Photography](Black%20and%20White%20Photography.key?raw=true)
+- Black & White Photography - [Keynote](Photography/Black-and-White-Photography.key?raw=true)
